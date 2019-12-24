@@ -1,0 +1,1 @@
+This is Merchit's first git project
